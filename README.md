@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I'm a computer science student with a passion for programming and problem-solving. I'm currently studying IT systems engineering at Uniwersytet Warmińsko-Mazurski w Olsztynie.
+I'm a computer science student with a passion for programming and problem-solving. I'm currently studying IT systems engineering at Uniwersytet Warmińsko-Mazurski w Olsztynie (Third year) .
 
 ## Technologies
 
